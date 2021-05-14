@@ -1,0 +1,85 @@
+
+h1{
+    color: rgb(235, 133, 50);
+}
+
+.header{
+    display: flexbox;
+    background-color: black;
+    justify-content: space-between;
+    border-radius: 20px;
+    width: 310px;
+    font-family: fantasy;
+}
+.parent{
+    display: flex;
+    background-color: darkgreen;
+    justify-content:space-between;
+}
+.powerset{
+    display: flex;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 420;
+    color: unset;
+    
+    
+}
+.subset img{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flex;
+    
+}
+.menu{
+   
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.about{
+    background-color: aqua;
+    display: flex;
+}
+.more{
+    display: flex;
+    justify-content:space-between;
+}
+.explore{
+    display: flexbox;
+    background: darkcyan;
+}
+.about{
+    display: flex;
+    background: rgb(54, 36, 2);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.falcon{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:  rgb(241, 227, 19);
+    justify-content:space-between;
+}
+.facts{
+   
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+.same{
+    display: flex;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 420;
+    color: unset;
+}
+.pen img{
+    border: 2px solid black;
+    border-radius: 50px;
+    display: flexbox;
+}
